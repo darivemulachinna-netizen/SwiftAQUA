@@ -1,0 +1,6 @@
+{
+  "name": "AquaPure - Water Supply & Quality Assurance",
+  "description": "Order certified potable water for household and large events. Instant booking via app or 24/7 phone dispatch with live water quality lab reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
